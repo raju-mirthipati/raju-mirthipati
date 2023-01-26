@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### GitHub status ![octocat](https://user-images.githubusercontent.com/120624996/214810293-11201ee4-2eab-4eab-80d9-f3cf9aded9bd.png)
 <!--
 **raju-mirthipati/raju-mirthipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
